@@ -1,0 +1,12 @@
+Me ha sorprendido gratamente que la IA proponga cómo se debe implementar una
+simple propuesta en lugar de tener que proporcionar yo, por ejemplo, todos los
+detalles de la implementación o casos de uso. Entiendo que la propuesta debe ser
+revisada de forma que se cumpla todo lo solicitado y se pueda iterar hasta
+encontrar la especificación correcta. El flujo se me asemeja al que podría
+establecer con un desarrollador humano, donde se le pide realizar una tarea de
+forma resumida y este interpreta realmente cómo se debe implementar, los casos
+de uso, etc.
+
+Tampoco era consciente de que las skills de una IA estaban redactadas como si
+fueran unas instrucciones que cualquiera pudiera entender, esperaba algo más del
+estilo de comandos específicos o formatos en JSON o cosas así.
